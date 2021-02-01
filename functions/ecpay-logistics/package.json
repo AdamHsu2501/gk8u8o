@@ -1,0 +1,51 @@
+{
+  "_from": "ecpay-logistics@^1.0.0",
+  "_id": "ecpay-logistics@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-jnLIhhmU5xsETlPOapizuTO9dUdQ/BIYWhpJYK1yhechpuHF56gJJjey6BCTKE+uTCKRQxj1pqty3FZny34PcQ==",
+  "_location": "/ecpay-logistics",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ecpay-logistics@^1.0.0",
+    "name": "ecpay-logistics",
+    "escapedName": "ecpay-logistics",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ecpay-logistics/-/ecpay-logistics-1.0.0.tgz",
+  "_shasum": "caa1703fda4d7c2192a7a061ef4b241f298d6644",
+  "_spec": "ecpay-logistics@^1.0.0",
+  "_where": "C:\\Users\\ck199\\Desktop\\reacttest\\gk8u8o\\functions",
+  "author": {
+    "name": "ying.wu",
+    "email": "ying.wu@opay.tw"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "buffer": "^5.0.6",
+    "elementtree": "^0.1.7",
+    "iconv-lite": "^0.4.18"
+  },
+  "deprecated": false,
+  "description": "綠界物流串接用SDK 開發者LuisChen<leo5916267@gmail.com>自行打包成npm package已方便使用",
+  "devDependencies": {},
+  "keywords": [
+    "npm",
+    "node",
+    "package"
+  ],
+  "license": "ISC",
+  "main": "ecpay_logistics.js",
+  "name": "ecpay-logistics",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
